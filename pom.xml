@@ -9,11 +9,11 @@
   </parent>
 
   <groupId>com.liumapp.archetype.eureka</groupId>
-  <artifactId>eureka-archetype</artifactId>
+  <artifactId>single-eureka-archetype</artifactId>
   <version>v1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>eureka-archetype</name>
+  <name>single-eureka-archetype</name>
   <url>http://maven.apache.org</url>
 
   <properties>
